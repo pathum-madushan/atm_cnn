@@ -34,7 +34,7 @@ names = {
 }
 
 #_dir =  sys.argv[1]
-_dir = "C:/final_project/testing/allowed/"
+_dir = "C:/final_project/testing/rejected/"
 
 
 # load the model we saved
