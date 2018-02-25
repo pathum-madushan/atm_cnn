@@ -31,7 +31,6 @@ else:
 names = {
     0 : 'allowed',
     1 : 'rejected',
-    
 }
 
 #_dir =  sys.argv[1]
